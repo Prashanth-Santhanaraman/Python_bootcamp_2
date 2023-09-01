@@ -1,7 +1,7 @@
 
 # Taking user inputs
-a = float(input("Enter the first number (a): "))
-b = float(input("Enter the second number (b): "))
+a = int(input("Enter the first number (a): "))
+b = int(input("Enter the second number (b): "))
 
 # Floor Division
 floor_division_result = a // b
